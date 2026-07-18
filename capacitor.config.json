@@ -1,0 +1,13 @@
+{
+  "appId": "Con.steven.app",
+  "appName": "Steven",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.webtonative.com/?utm_source=google_ad&utm_medium=cpc&utm_campaign=growth_pmax&gad_source=1&gad_campaignid=22857354190&gbraid=0AAAAABfIQjWFw1_tGQJHd5J1Vsu9Wiou6&gclid=CjwKCAjwyOzSBhBTEiwAmxvJ-ihx7qS4Rsj53oZljLrSSEzVXmkscAi53ZslBVprbbOaCcUk1Wq8mhoCv-cQAvD_BwE",
+    "cleartext": true
+  },
+  "backgroundColor": "#0d1016",
+  "android": {
+    "backgroundColor": "#0d1016"
+  }
+}
